@@ -1,4 +1,4 @@
-package execCmdOutput
+package get_lerna_changed
 
 import (
 	"os/exec"
